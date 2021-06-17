@@ -78,7 +78,7 @@ customElements.define('jl-coloringbook', class extends HTMLElement
                   font-style: normal;
                   font-weight: 400;
                   src: url(https://fonts.gstatic.com/s/materialicons/v50/flUhRq6tzZclQEJ-Vdg-IuiaDsNZ.ttf) format('truetype');
-				  font-display: swap;
+		  font-display: swap;
                 }
 
                 .material-icons {
